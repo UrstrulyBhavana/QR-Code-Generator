@@ -31,3 +31,5 @@ JavaScript: Core functionality for QR code generation and user interactions.
 QR Code API: Uses https://api.qrserver.com/v1/create-qr-code/ for QR code generation.
 
 
+![iWsWjJb - Imgur](https://github.com/user-attachments/assets/b5aead22-0a45-4191-b2af-c6e9e00fed5e)
+
